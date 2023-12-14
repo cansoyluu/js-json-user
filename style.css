@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Kalnia&family=Roboto:ital,wght@0,100;0,400;0,500;1,400&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #b4c2c1;
+  width: 100%;
+}
+
+.btn {
+  background-color: #214850;
+}
+.buton-div :hover {
+  background-color: #132c36;
+}
+.card {
+  border-radius: 10px;
+  box-shadow: 6px 10px 12px 18px #375b55;
+  background-color: #e3e7e9;
+  width: 900px;
+  height: 600px;
+  text-align: start;
+  color: black;
+  font-weight: 400;
+}
+
+.fa-solid {
+  font-size: 1.5rem;
+  color: #375b55;
+}
+
+.list-group li {
+  font-size: 0.9rem;
+  border: none;
+  background-color: #e3e7e9;
+}
